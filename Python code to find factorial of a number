@@ -41,3 +41,6 @@ print("Factorial is ",reduce(lambda fact, i : fact * i, l))
 
 #Enter Number whose factorial you want to find5
 #Factorial is  120
+
+
+### Three different ways to 
